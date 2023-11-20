@@ -1,0 +1,69 @@
+
+----Portuguese----
+
+Dispositivos de entrada e saída de dados
+
+A entrada e a saída de informação efetuam-se através de dispositivos específicos, externos ou periférios ao sistema. Um dispositivo de entrada pode ser definido como um sistema que permite introduzir dados do exterior num siste, a informático. Ao contrário, um dispositivo de saída pode definir-se como um sistem que permite ao computador desponibilizar informação para o exterior, para que a possamos utilizar.
+Existem vários dispositivos que vinculam a comunicação entre o computador e o utilizador. Estes dispositivos podem ser agrupados em três grandes grupos:
+
+Dispositivos de entrada (input)
+Dispositivo de saída (output)
+Dispositivos de entrada e saída (input/output)
+
+-
+
+Dispositivos de entrada (input)
+
+Os dispositivos ou periféricos de entrada convertem a informação introduzida pelo utilizador em sequências próprias de bits, capazes de serem interpretadas pelo processador.
+Neste sentido, existem inúmeros dispositivos que permitem a comunicação entre o utilizador e o computador, nomeadamente: teclado, rato, scanner, câmaras digitais, etc.
+
+-
+
+Dispositivo de saída (output)
+
+É através dos dispositivos ou periféricos de saída que os dados processados são transmitidos para o exteriror. Podemos referir como dispositivos ou periféricos de saída os seguintes: monitor, impressoras, plotters e projetor de imagem.
+
+-
+
+Dispositivos de entrada e saída (input/output)
+
+Os dispositivos de entrada e saída são aqueles que tanto permitem efetuar a entrada como, também, a saída de dados. Ou seja, são dispositivos capazes de canalizar informação do exterior para o interiror e vice-versa.
+Como dispositivos de entrada e saída podemos referir: as drivers, os modems, os monitores táteis e as placas de rede.
+
+
+----English----
+
+Data Input and Output devices
+
+The input and Output of information take place through specific devices, external or peripheral to the system.
+An input device can be defined as a system that allows data to be entered from the outside into a computer system. 
+On the other hand, an output device can be defined as a system that allows the computer to make information available to the outside, so that we can use it.
+
+There are many devices that prevent communication between the computer and the user. These devices can be grouped into three large groups: 
+
+Input devices
+Output devices 
+Input and Output devices
+
+-
+
+Input devices 
+
+Input devices or peripherals convert the information entered by the user into specific sequences of bits, capable of being interpreted by the processor. 
+In this sense, there are many devices that allowd the communication between the user and the computer, namely: keyboard, mouse, scanner, digital cameras, etc. 
+
+- 
+
+Output devices
+
+It is trought output devices or peripherals that the processed data is transmitted abroad.
+We can refer to the following as output devices or peripheral: monitor, printer, plotter and image projector. 
+
+-
+
+Input and Output devices
+
+Input and output devices are those that allow both input and output of data.
+In other words, they are capable devices of locating information from the outside to the inside and vice versa.
+As input and output devices we can refer to: drivers, modems, touch monitors and network cards.
+
